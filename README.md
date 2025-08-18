@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **Dhruv Verma**  <br>💻 Full Stack Web Developer | 2 Years @ Masai School  <br>🎓 Pursuing BCA from Manipal University Jaipur  <br>🌐 Passionate about building scalable web apps & learning new tech  <br>🚀 Always up for a challenge & open to collaborations!
+👋 Hi, I'm **Dhruv Verma**  <br>💻 Full Stack Web Developer | 2 Years @ Masai School  <br>🎓 BCA from Manipal University Jaipur  <br>🌐 Software Engineer at Bytecode It Solutions  <br>🚀 Always up for a challenge & open to collaborations!
 
 
 ## 🌐 Socials:
