@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **Dhruv Verma**  <br>- 🔭 Currently working as a **Web Developer & Trainer** at **Bytecode IT Solutions**  <br>- 🌍 Also working as an **AI Automation Engineer** at **Codelevate (Netherlands-based)**  <br>- 🎓 Completed **Full Stack Development course** at **Masai School**  <br>- 🎓 Pursuing **BCA** at **Manipal University Jaipur**  <br>- 🛠️ Building **[CodeForge India](https://codeforgeindia.com/)**  <br>- 💡 Strong background in **MERN Stack, Python, and AI-powered automation**  <br>- 🎤 Experienced in delivering **technical training sessions** to college students an
+- 👋 Hi, I’m **Dhruv Verma**  <br>- 🔭 Currently working as a **Web Developer & Trainer** at **Bytecode IT Solutions**  <br>- 🌍 Also working as an **AI Automation Engineer** at **Codelevate (Netherlands-based)**  <br>- 🎓 Completed **Full Stack Development course** at **Masai School**  <br>- 🎓 Pursuing **BCA** at **Manipal University Jaipur**  <br>- 🛠️ Building **[CodeForge India](https://codeforgeindia.com/)**  <br>- 💡 Strong background in **MERN Stack, Python, and AI-powered automation**  <br>- 🎤 Experienced in delivering **technical training sessions** to college students an
 
 
 ## 🌐 Socials:
